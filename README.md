@@ -48,5 +48,6 @@ Atualmente, aplico soluções baseadas em **Power BI, SQL, Excel e Python**, atu
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/gustavo-barbosa-86897636/])  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-barbosa-868976236/)
+
 📧 gustavobarbosa7744@gmail.com

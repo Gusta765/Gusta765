@@ -50,13 +50,3 @@ Atualmente, aplico soluções baseadas em **Power BI, SQL, Excel e Python**, atu
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seulinkedin](https://www.linkedin.com/in/gustavo-barbosa-868976236/))  
 📧 gustavobarbosa7744@gmail.com
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=dracula&hide_title=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=dracula" />
-</p>

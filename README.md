@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gustavo!
 
-<!--
-**Gusta765/Gusta765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de Dados focado em transformar dados em decisões inteligentes.  
+🎓 Técnico em Administração | Estudante de Engenharia da Computação  
+📊 Conhecimento em Excel, Power BI, SQL e Python  
 
-Here are some ideas to get you started:
+## 🚀 Minhas Skills
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em Destaque
+- [Dashboard de Vendas com Power BI](https://github.com/seunome/dashboard-vendas)
+- [Análise de Pareto em SQL](https://github.com/seunome/pareto-sql)
+- [Recomendador de Produtos com Python](https://github.com/seunome/recomendador-produtos)
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seulinkedin](https://www.linkedin.com/in/gustavo-barbosa-868976236/))
+📧 gustavobarbosa7744@gmail.com

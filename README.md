@@ -1,28 +1,68 @@
-# 👋 Olá, eu sou o Gustavo!
+<h1 align="center">👋 Olá! Eu sou [Seu Nome]</h1>
+<p align="center">Analista de Dados com foco em geração de insights estratégicos e impacto nos negócios</p>
 
-🎯 Analista de Dados focado em transformar dados em decisões inteligentes.  
-🎓 Técnico em Administração | Estudante de Engenharia da Computação  
-📊 Conhecimento em Excel, Power BI, SQL e Python  
+---
 
-## 🚀 Minhas Skills
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+### 🚀 Sobre mim
 
-## 📌 Projetos em Destaque
-- [📊 Dashboard de Vendas com Power BI](https://github.com/seunome/dashboard-vendas)  
-  Visualização interativa de vendas mensais, top produtos e metas.
+Sou Analista de Dados com experiência prática em transformar dados em decisões acionáveis. Trabalho com foco em **inteligência de negócio, visualização de dados e experimentação com Testes A/B**. Tenho como objetivo me tornar Cientista de Dados em uma empresa com **alta maturidade analítica**.
 
-- [📈 Análise de Pareto em SQL](https://github.com/seunome/pareto-sql)  
-  Identificação dos produtos que geram 80% do faturamento.
+Atualmente, aplico soluções baseadas em **Power BI, SQL, Excel e Python**, atuando em projetos que vão desde dashboards executivos até sistemas de recomendação e análise estatística.
 
-- [🧠 Recomendador de Produtos com Python](https://github.com/seunome/recomendador-produtos)  
-  Sistema simples de recomendação baseado em similaridade de compras.
+---
 
-- [📎 Planilha de Controle com Excel](https://github.com/seunome/excel-controle)  
-  Planilha com dashboard automatizado usando fórmulas e Tabelas Dinâmicas.
+### 🧰 Ferramentas e Tecnologias
 
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seulinkedin](https://www.linkedin.com/in/gustavo-barbosa-868976236/))
-📧 gustavobarbosa7744@gmail.com
+<p>
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Projetos em Destaque
+
+| Projeto | Descrição |
+|--------|------------|
+| [📊 Dashboard de Vendas (Power BI)](https://github.com/seunome/dashboard-vendas) | Painel interativo com segmentações, KPIs, metas e desempenho por categoria. |
+| [📈 Análise de Pareto com SQL](https://github.com/seunome/pareto-sql) | Identificação dos produtos que geram 80% da receita. Insight direto para tomada de decisão em estoque. |
+| [🧠 Sistema de Recomendação (Python)](https://github.com/seunome/recomendador-produtos) | Algoritmo de recomendação simples baseado em similaridade de itens. |
+| [🧪 Teste A/B com Python e SciPy](https://github.com/seunome/teste-ab-conversao) | Estruturação, execução e análise estatística de Testes A/B para otimização de conversão. |
+| [📎 Planilha com Dashboard Excel](https://github.com/seunome/excel-dashboard) | Dashboard automatizado em Excel com Tabelas Dinâmicas e formatação condicional. |
+
+---
+
+### 📊 O que me diferencia?
+
+✔️ Entrego **análises com storytelling e foco no negócio**  
+✔️ Crio dashboards que **respondem perguntas estratégicas**  
+✔️ Realizo **Testes A/B para validar hipóteses de crescimento**  
+✔️ Domino **extração de dados e insights em SQL, Python e Excel**
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)  
+📧 seuemail@email.com
+
+---
+
+### 🌐 Portfólio com GitHub Pages (em breve)
+
+> Estou desenvolvendo uma landing page interativa com meus projetos e análises de impacto utilizando **GitHub Pages + HTML/CSS**. Em breve você poderá visualizar meu portfólio também fora do GitHub.
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=dracula&hide_title=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=dracula" />
+</p>

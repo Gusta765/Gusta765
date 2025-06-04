@@ -1,11 +1,11 @@
-<h1 align="center">👋 Olá! Eu sou [Seu Nome]</h1>
+<h1 align="center">👋 Olá! Eu sou o [Gustavo]</h1>
 <p align="center">Analista de Dados com foco em geração de insights estratégicos e impacto nos negócios</p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou Analista de Dados com experiência prática em transformar dados em decisões acionáveis. Trabalho com foco em **inteligência de negócio, visualização de dados e experimentação com Testes A/B**. Tenho como objetivo me tornar Cientista de Dados em uma empresa com **alta maturidade analítica**.
+Sou Analista de Dados com experiência prática em transformar dados em decisões acionáveis. Trabalho com foco em **inteligência de negócio, visualização de dados e experimentação com Testes A/B.
 
 Atualmente, aplico soluções baseadas em **Power BI, SQL, Excel e Python**, atuando em projetos que vão desde dashboards executivos até sistemas de recomendação e análise estatística.
 
@@ -42,20 +42,14 @@ Atualmente, aplico soluções baseadas em **Power BI, SQL, Excel e Python**, atu
 ✔️ Entrego **análises com storytelling e foco no negócio**  
 ✔️ Crio dashboards que **respondem perguntas estratégicas**  
 ✔️ Realizo **Testes A/B para validar hipóteses de crescimento**  
-✔️ Domino **extração de dados e insights em SQL, Python e Excel**
+✔️ Domino **extração de dados e insights em SQL, Power BI, Python e Excel**
 
 ---
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)  
-📧 seuemail@email.com
-
----
-
-### 🌐 Portfólio com GitHub Pages (em breve)
-
-> Estou desenvolvendo uma landing page interativa com meus projetos e análises de impacto utilizando **GitHub Pages + HTML/CSS**. Em breve você poderá visualizar meu portfólio também fora do GitHub.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seulinkedin](https://www.linkedin.com/in/gustavo-barbosa-868976236/))  
+📧 gustavobarbosa7744@gmail.com
 
 ---
 

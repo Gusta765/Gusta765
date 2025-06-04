@@ -50,12 +50,5 @@ Atualmente, aplico soluções baseadas em **Power BI, SQL, Excel e Python**, atu
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-barbosa-868976236/) [![Email](https://img.shields.io/badge/Email-gustavobarbosa7744@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavobarbosa7744@gmail.com)
 
-<button onclick="copyEmail()">📧 Copiar e-mail</button>
 
-<script>
-  function copyEmail() {
-    navigator.clipboard.writeText("gustavobarbosa7744@gmail.com")
-      .then(() => alert("E-mail copiado para a área de transferência!"));
-  }
-</script>
 

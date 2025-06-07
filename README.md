@@ -29,7 +29,7 @@ Atualmente, aplico soluções baseadas em **Power BI, SQL, Excel e Python**, atu
 
 | Projeto | Descrição |
 |--------|------------|
-| [📊 Dashboard DRE (Power BI)]((https://github.com/Gusta765/Dashboard-DRE)) | Painel interativo com segmentações, KPIs, metas e saúde financeira da empresa. |
+| [📊 Dashboard DRE (Power BI)](https://github.com/Gusta765/Dashboard-DRE) | Painel interativo com segmentações, KPIs, metas e saúde financeira da empresa. |
 | [📈 Análise de Pareto com SQL](https://github.com/Gusta765/Analise_pareto_SQL) | Identificação dos produtos que geram 80% da receita. Insight direto para tomada de decisão em estoque. |
 | [🧠 Sistema de Recomendação (Python)](https://github.com/Gusta765/Recomenda-es-de-Produtos-por-Afinidade/tree/main) | Algoritmo de recomendação simples baseado em similaridade de itens. |
 | [🧪 Teste A/B com Python e SciPy](https://github.com/Gusta765/A-B-Testing/blob/main/README.md) | Estruturação, execução e análise estatística de Testes A/B para otimização de conversão. |

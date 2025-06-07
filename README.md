@@ -33,7 +33,6 @@ Atualmente, aplico soluções baseadas em **Power BI, SQL, Excel e Python**, atu
 | [📈 Análise de Pareto com SQL](https://github.com/Gusta765/Analise_pareto_SQL) | Identificação dos produtos que geram 80% da receita. Insight direto para tomada de decisão em estoque. |
 | [🧠 Sistema de Recomendação (Python)](https://github.com/Gusta765/Recomenda-es-de-Produtos-por-Afinidade/tree/main) | Algoritmo de recomendação simples baseado em similaridade de itens. |
 | [🧪 Teste A/B com Python e SciPy](https://github.com/Gusta765/A-B-Testing/blob/main/README.md) | Estruturação, execução e análise estatística de Testes A/B para otimização de conversão. |
-| [📎 Planilha com Dashboard Excel](https://github.com/seunome/excel-dashboard) | Dashboard automatizado em Excel com Tabelas Dinâmicas e formatação condicional. |
 
 ---
 

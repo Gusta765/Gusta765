@@ -44,9 +44,6 @@ Atualmente, aplico soluções baseadas em **Power BI, SQL, Excel e Python**, atu
 ✔️ Domino **extração de dados e insights em SQL, Power BI, Python e Excel**
 
 ---
-🧑‍💻 Autor
-
-Desenvolvido por Gustavo Barbosa
 
 ### 📫 Contato
 
